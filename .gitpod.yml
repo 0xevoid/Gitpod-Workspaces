@@ -1,0 +1,9 @@
+#
+# // Copyright (C) 2021 Mr.Pendol
+#
+
+# Image Location
+image:
+  file: .gitpod.dockerfile
+
+# End
